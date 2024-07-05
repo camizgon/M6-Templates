@@ -61,6 +61,8 @@
   </div>
 </template>
 
+
+<!--Acá tuve ayudita de mis comapñeritos jajaja de TI-->
 <script>
 export default {
   name: 'App',
